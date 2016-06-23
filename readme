@@ -1,0 +1,8 @@
+        READ ME 
+TAXA DE CONVERSAO – BAR COIOTE
+Esse aplicativo mobile tem como propósito auxiliar a equipe de garçons do Bar Coiote. 
+As taxas de serviço do estabelecimento muda conforme o horário de atendimento. Durante almoço, janta e shows há uma diferença entre a porcentagem das taxas.
+A referência da lógica de programação divide-se em:
+Geral: namespace CalcGorjeta, public class MainActivity : Activity
+Layout: protected override void OnCreate(Bundle bundle)
+Lógica de Programação: void btnCalcular_Click
